@@ -1,6 +1,6 @@
 [
   {
-    "question":"The breakdown of pyruvate to give CO2, H2O and energy takes place in: ",
+    "question":"The breakdown of pyruvate to give CO₂, H₂O and energy takes place in: ",
     "subId":"B",
     "option1":"cytoplasm",
     "option2":"mitochondria",
@@ -56,10 +56,10 @@
   {
     "question":"An atom of an element has the electronic confi-guration 2,8,2. To which group does it belong?",
     "subId":"C",
-    "option1":"4th group",
-    "option2":"6th group",
-    "option3":"3rd group",
-    "option4":"2nd group",
+    "option1":"4\u1D57\u02B0 group",
+    "option2":"6\u1D57\u02B0 group",
+    "option3":"3\u02B3\u1D48 group",
+    "option4":"2\u207F\u1D48 group",
     "correctOption":4
   }
 ]
