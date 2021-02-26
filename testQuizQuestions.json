@@ -54,7 +54,7 @@
     "correctOption":4
   },
   {
-    "question":"An atom of an element has the electronic confi-guration 2,8,2. To which group does it belong?",
+    "question":"An atom of an element has the electronic confi-guration \033[3m2,8,2\033[0m. To which group does it belong?",
     "subId":"C",
     "option1":"4\u1D57\u02B0 group",
     "option2":"6\u1D57\u02B0 group",
