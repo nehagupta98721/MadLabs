@@ -1,0 +1,74 @@
+[
+  {
+    "question":"The breakdown of pyruvate to give CO2, H2O and energy takes place in: ",
+    "subId":"B",
+    "option1":"cytoplasm",
+    "option2":"mitochondria",
+    "option3":"chloroplast",
+    "option4":"nucleus",
+    "correctOption":2
+  }
+  {
+    "question":"The respiratory pigment in human beings is: ",
+    "subId":"B",
+    "option1":"chlorophyll",
+    "option2":"mitochondria",
+    "option3":"haemoglobin",
+    "option4":"alveoli",
+    "correctOption":3
+  }
+  {
+    "question":"The seed that contains the future plant is called: ",
+    "subId":"B",
+    "option1":"seed coat",
+    "option2":"cotyledons",
+    "option3":"germ cells",
+    "option4":"embryo",
+    "correctOption":4
+  }
+  {
+    "question":"The procedure used for cleaning the blood of a person by separating urea from it is called: ",
+    "subId":"B",
+    "option1":"osmosis",
+    "option2":"filtration",
+    "option3":"dialysis",
+    "option4":"double circulation",
+    "correctOption":3
+  }
+  {
+    "question":"The process of release of egg from ovary is called: ",
+    "subId":"B",
+    "option1":"menstruation",
+    "option2":"reproduction",
+    "option3":"insemination",
+    "option4":"ovulation",
+    "correctOption":
+  }
+  {
+    "question":"In Mendeleev’s Periodic Table, gaps were left for the elements to be discovered later. Which of the following elements found a place in the Periodic Table later?",
+    "subId":"C",
+    "option1":"Chlorine",
+    "option2":"Silicon",
+    "option3":"Nickle",
+    "option4":"Germanium",
+    "correctOption":4
+  }
+  {
+    "question":"An atom of an element has the electronic confi-guration 2,8,2. To which group does it belong?",
+    "subId":"C",
+    "option1":"4th group",
+    "option2":"6th group",
+    "option3":"3rd group",
+    "option4":"2nd group",
+    "correctOption":4
+  }
+  {
+    "question":"",
+    "subId":"",
+    "option1":"",
+    "option2":"",
+    "option3":"",
+    "option4":"",
+    "correctOption":
+  }
+]
