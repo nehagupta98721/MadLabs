@@ -4,5 +4,11 @@
     "code":"PHY-E",
     "toFind":["Current(I)"],
     "answer":[[8,"A"]]  
+  },
+  {
+    "question": "The potential difference between the terminals of an electric heater is \\(60 V\\) when it draws a current of \\(4 A\\) from the source. What current will the heater draw if the potential difference is increased to \\(120 V\\)?",
+    "code":"PHY-E",
+    "toFind":["Current(I)","Voltage(V)", "Resistance(R)"],
+    "answer":[[8,"A"],[120,"V"],[15,"ohm"]]  
   }
 ]
